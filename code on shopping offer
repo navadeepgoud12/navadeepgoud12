@@ -1,0 +1,131 @@
+#include<stdio.h>
+#include<string.h>
+void offer();
+void season();
+int main()
+{
+int i;
+char a[20];
+char b[20];
+printf(".....WELL COME TO THE ONLINE SHOPING OFFER.....");
+printf("\n Enter the fashion wear");
+gets(a);
+if(strcmp(a,"men")==0)
+{
+printf("enter what do you what");
+gets(b);
+if(strcmp(b,"shirts")==0)
+{
+offer();
+season();
+}
+else if(strcmp(b,"jeans")==0)
+{
+offer();
+season();
+}
+else if(strcmp(b,"tshirts")==0)
+{
+offer();
+season();
+}
+else
+{
+printf("\n we can't found but the offers are :");
+offer();
+}
+}
+
+else if(strcmp(b,"women")==0)
+{gets(b);
+ if(strcmp(b,"sarees")==0)
+{
+printf("aditionally 5% discount");
+offer();
+season();
+}
+else if((b,"kurthis")==0)
+{
+printf("Buy three get 1 free");
+offer();
+season();
+}
+else if((b,"westron")==0)
+{
+printf("buy three jeans get one top free");
+offer();
+season();
+}
+else
+{
+printf("\n we can't found but the offers are :");
+offer();
+}
+}
+else if(strcmp(b,"kids")==0)
+{
+gets(b);
+if(strcmp(b,"boys")==0)
+{
+offer();
+season();
+}
+else if((b,"girls")==0)
+{
+printf("Buy three get 1 free");
+offer();
+season();
+}
+}
+else
+{
+printf("\n we can't found but the offers are :");
+offer();
+}
+}
+void offer()
+{
+int p;
+printf("enter the prize to purchase");
+scanf("%d",&p);
+if(p>=1000 && p<=2000)
+{
+printf("10% discount on your puchase");
+}
+else if(p>2000 && p<=3000)
+{
+printf("20% discount on your puchase");
+}
+else if(p>3000 && p<=6000)
+{
+printf("30% discount on your purchase");
+}
+else if(p>10000)
+{
+printf("40% discount on your purchase");
+}
+else
+{
+printf("no offers on your purchase");
+}
+
+}
+void season()
+{
+int m;
+printf("enter the month");
+scanf("%d",&m);
+if(m>=1 && m<=4)
+{
+printf("*** NEW YEAR AND UGADHI OFFER*");
+}
+else if(m>=5 && m<8)
+{
+printf("*** ASHADAM AND SRAVANAM*");
+}
+else 
+{
+printf("*** DASARA AND DIWALI");
+}
+
+}
