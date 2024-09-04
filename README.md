@@ -39,6 +39,7 @@ preview
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navadeepgoud12&" alt="navadeepgoud12" /></p>
 
-
+<h2>About Me</h2>
+<p>Goal - driven web developer student with a strong command of HTML, CSS, and JavaScript, complemented by proficiency in Python, C, and Java. My passion for technology drives me to continually expand my skills, and I've recently completed the "Career Essentials with Generative AI" course on LinkedIn, which has deepened my understanding of AI and its transformative potential. I'm eager to apply my knowledge to innovative projects and connect with professionals who share my enthusiasm for tech.</p>
 
 
