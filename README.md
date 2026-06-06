@@ -1,32 +1,98 @@
+# Hi 👋, I'm Navadeep Goud
 
+### 🚀 Final Year B.Tech Student | Data Science & Machine Learning Enthusiast | Building AI-Powered Solutions
 
-preview
-<h1 align="center">Hi 👋, I'm Navadeep Goud</h1>
-<h3 align="center">A passionate Btech student from India</h3>
+I'm a passionate Final-Year B.Tech student from India with a strong interest in Data Science, Machine Learning, Deep Learning, Artificial Intelligence, and Web Development.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navadeepgoud12&label=Profile%20views&color=0e75b6&style=flat" alt="navadeepgoud12" /> </p>
+I enjoy building intelligent applications that combine data-driven insights with user-friendly web interfaces. My journey includes developing Machine Learning models, exploring NLP and Deep Learning, and deploying applications using modern web technologies.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navadeepgoud12" alt="navadeepgoud12" /></a> </p>
+---
 
-- 🌱 I’m currently learning **HTML,frame works,CSS, Java script**
+### 🌱 Currently Learning
 
-- 📫 How to reach me **9deepgoud@gmail.com**
+* Machine Learning
+* Deep Learning
+* Natural Language Processing (NLP)
+* Flask Framework
+* SQL & Database Management
+* Data Structures & Algorithms (DSA)
+* End-to-End Machine Learning Project Development
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kishtammagari navadeep goud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishtammagari navadeep goud" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 💻 Technical Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navadeepgoud12&show_icons=true&locale=en&layout=compact" alt="navadeepgoud12" /></p>
+#### Programming Languages
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navadeepgoud12&show_icons=true&locale=en" alt="navadeepgoud12" /></p>
+* Python
+* Java
+* C
+* JavaScript
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navadeepgoud12&" alt="navadeepgoud12" /></p>
+#### Data Science & Machine Learning
 
-<h2>About Me</h2>
-<p>Goal - driven web developer student with a strong command of HTML, CSS, and JavaScript, complemented by proficiency in Python, C, and Java. My passion for technology drives me to continually expand my skills, and I've recently completed the "Career Essentials with Generative AI" course on LinkedIn, which has deepened my understanding of AI and its transformative potential. I'm eager to apply my knowledge to innovative projects and connect with professionals who share my enthusiasm for tech.</p>
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-Learn
+* TensorFlow
+* Machine Learning
+* Deep Learning
+* Natural Language Processing (NLP)
 
+#### Web Technologies
 
+* HTML5
+* CSS3
+* JavaScript
+* Flask
+* Streamlit
+
+#### Databases
+
+* SQL
+* MySQL
+* SQLite
+
+#### Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
+* Jupyter Notebook
+* Anaconda
+
+---
+
+### 💡 Areas of Interest
+
+* Data Science
+* Machine Learning
+* Deep Learning
+* Artificial Intelligence
+* Generative AI
+* Full-Stack Development
+* Predictive Analytics
+
+---
+
+### 🏆 Current Focus
+
+* Building End-to-End AI/ML Projects
+* Developing Real-World Data Science Applications
+* Strengthening DSA and Problem-Solving Skills
+* Preparing for Placements and Technical Interviews
+
+---
+
+### 📫 Connect With Me
+
+📧 Email: [9deepgoud@gmail.com](mailto:9deepgoud@gmail.com)
+
+💼 LinkedIn: [www.linkedin.com/in/navadeepgoud](http://www.linkedin.com/in/navadeepgoud)
+
+---
+
+### ⚡ Fun Fact
+
+I love transforming data into actionable insights and building applications that solve real-world problems through AI and technology.
